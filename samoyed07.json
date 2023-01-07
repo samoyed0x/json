@@ -1,0 +1,39 @@
+{
+  "name": "Samoyed Coin WL",
+  "symbol": "SAMO",
+  "description": "Solana's Cutest Ambassador!\nCongratulations. Your wallet address has earned WhiteList rights.\nMint for free now before your mint expires.👇",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://samoyed-mint.web.app",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "15.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "2B5AcxCQ7ynwM7XxgPfJPaaXjfWpeLUf5jEkvM6yhbUX",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://s2.coinmarketcap.com/static/img/coins/128x128/9721.png",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "SAMO",
+    "family": "WhiteList"
+  },
+  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/9721.png"
+}
